@@ -9,7 +9,7 @@ Download the code to the directories that contains the .txt file exported from x
 The code will be helpfull as a to agrregates all the required data into one array, as reading all the files for batch analysis may be dificult. The data files can be further imported to other userfriendly software for analysis.
 
 
-It stores as the following coloumns, 
-
+It stores as the following coloumns(11), 
+ 1        2         3        4          5        6         7        8         9         10          11
 alpha     CL        CD       CDp       Cm      Top Xtr   Bot Xtr   Cpmin    Chinge     XCp         Re
  ------- -------- --------- --------- -------- -------   -------  --------  --------- ---------   ---------
